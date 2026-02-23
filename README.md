@@ -1,19 +1,17 @@
 # A HTML Calculator
 
 A fully functional HTML calculator with **Basic**, **Scientific**, and **Programmer** modes. 
-Type directly in display - letters automatically show **Error**!
 
 ## ✨ Features
 
 - **3 Switchable Modes**: Basic (+-×÷) | Scientific (sin/cos/log/√/π) | Programmer (AND/OR/XOR/Hex/Bin)
 - **Direct Typing**: Type equations like `2+3*4` or `sin(3.14)`
-- **Smart Validation**: Letters ("hello") → **Error** (auto-clears 1.5s)
-- **Responsive Design**: Desktop + Mobile perfect
-- **Single HTML File**: No deps, copy-paste → instant use!
+- **Responsive Design**: Desktop Great!
+- **Single HTML File**: Just Download The ZIP And Done!
 
 ## 🚀 Quick Start
 
-1. **Download** ZIP file with calculator.html
+1. **Download** ZIP file with cal.html
 2. **Save as** `cal.html` 
 3. **Double-click** → opens in browser
 4. **Calculate away** 🎉
